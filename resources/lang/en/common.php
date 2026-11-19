@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'company_name'    => 'Woosung Remicon Co., Ltd.',
+    'company_name_en' => 'Woosung Remicon Co., Ltd.',
+    'address'         => '104 Oidong-gil, Gangdong-myeon, Gangneung-si, Gangwon State, Republic of Korea',
+    'phone'           => '033-644-5677',
+    'phone_label'     => 'Tel',
+    'fax_label'       => 'Fax',
+    'email_label'     => 'Email',
+    'hours_label'     => 'Business Hours',
+    'hours_value'     => 'Mon–Fri 08:00–18:00 (Sat: limited hours)',
+    'read_more'       => 'Learn More',
+    'go_to_top'       => 'Back to top',
+    'required'        => 'Required',
+    'optional'        => 'Optional',
+    'submit'          => 'Submit',
+    'save'            => 'Save',
+    'cancel'          => 'Cancel',
+    'back'            => 'Back',
+    'edit'            => 'Edit',
+    'delete'          => 'Delete',
+    'confirm_delete'  => 'Are you sure you want to delete this? This cannot be undone.',
+    'loading'         => 'Loading...',
+    'copyright'       => '© :year Woosung Remicon Co., Ltd. All rights reserved.',
+    'footer_desc'     => 'Based in Gangneung, Gangwon State, Woosung Remicon Co., Ltd. has supplied high-quality ready-mixed concrete and concrete blocks since 1999.',
+];

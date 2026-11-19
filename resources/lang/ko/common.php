@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'company_name'    => '우성레미콘(주)',
+    'company_name_en' => 'Woosung Remicon Co., Ltd.',
+    'address'         => '강원특별자치도 강릉시 강동면 오이동길 104',
+    'phone'           => '033-644-5677',
+    'phone_label'     => '전화',
+    'fax_label'       => '팩스',
+    'email_label'     => '이메일',
+    'hours_label'     => '운영시간',
+    'hours_value'     => '평일 08:00–18:00 (토요일 단축 운영)',
+    'read_more'       => '자세히 보기',
+    'go_to_top'       => '맨 위로',
+    'required'        => '필수',
+    'optional'        => '선택',
+    'submit'          => '제출하기',
+    'save'            => '저장',
+    'cancel'          => '취소',
+    'back'            => '뒤로',
+    'edit'            => '수정',
+    'delete'          => '삭제',
+    'confirm_delete'  => '정말 삭제하시겠습니까?',
+    'loading'         => '로딩 중...',
+    'copyright'       => '© :year 우성레미콘(주). All rights reserved.',
+    'footer_desc'     => '강원도 강릉에 위치한 우성레미콘(주)는 1999년 설립 이후 고품질 레미콘 및 콘크리트 블록을 공급해 온 전문 콘크리트 기업입니다.',
+];

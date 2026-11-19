@@ -1,0 +1,77 @@
+<?php
+
+return [
+    'title'               => '우성레미콘 관리자 시스템',
+    'dashboard'           => '대시보드',
+    'products'            => '제품 관리',
+    'inquiries'           => '견적/문의 관리',
+    'announcements'       => '공지사항 관리',
+    'page_content'        => '페이지 콘텐츠 관리',
+    'seo'                 => 'SEO 설정',
+    'settings'            => '사이트 설정',
+    'users'               => '관리자 계정',
+    'logout'              => '로그아웃',
+    'login'               => '관리자 로그인',
+    'welcome'             => '우성레미콘 관리자 시스템에 오신 것을 환영합니다.',
+    
+    // Actions
+    'add_new'             => '신규 등록',
+    'edit'                => '수정',
+    'delete'              => '삭제',
+    'save'                => '저장하기',
+    'cancel'              => '취소',
+    'view'                => '상세보기',
+    'back'                => '목록으로',
+    'status'              => '상태',
+    'actions'             => '작업',
+    'created_at'          => '등록일',
+    'search'              => '검색',
+    'filter'              => '필터',
+    
+    // Dashboard Stats
+    'stat_products'       => '등록된 제품 수',
+    'stat_inquiries_new'  => '신규 접수 문의',
+    'stat_inquiries_all'  => '전체 접수 문의',
+    'stat_announcements'  => '게시된 공지사항',
+    'recent_inquiries'    => '최근 접수된 견적 문의',
+    'no_inquiries'        => '최근 접수된 문의가 없습니다.',
+    
+    // Product Form
+    'prod_name_ko'        => '제품명 (한국어)',
+    'prod_name_en'        => '제품명 (영어)',
+    'prod_category'       => '카테고리',
+    'cat_remicon'         => '레미콘 (Ready-Mixed Concrete)',
+    'cat_block'           => '콘크리트 블록',
+    'cat_ascon'           => '아스콘 (Ascon)',
+    'prod_grade'          => '설계기준강도 (MPa)',
+    'prod_slump'          => '슬럼프 (mm)',
+    'prod_aggregate'      => '최대골재크기 (mm)',
+    'prod_dimensions'     => '블록 규격 (W×H×L mm)',
+    'prod_width'          => '너비(W)',
+    'prod_height'         => '높이(H)',
+    'prod_length'         => '길이(L)',
+    'prod_app_ko'         => '주요 용도 (한국어)',
+    'prod_app_en'         => '주요 용도 (영어)',
+    'prod_available'      => '공급 가능 여부',
+    'prod_sort'           => '정렬 순서',
+    'prod_image'          => '제품 대표 이미지',
+    
+    // Inquiries
+    'inq_name'            => '담당자명',
+    'inq_company'         => '회사/현장명',
+    'inq_phone'           => '전화번호',
+    'inq_email'           => '이메일',
+    'inq_product'         => '문의 제품',
+    'inq_qty'             => '수량',
+    'inq_address'         => '납품 현장 주소',
+    'inq_date'            => '희망 납품일',
+    'inq_message'         => '상세 요청 내용',
+    'inq_status_new'      => '신규 접수',
+    'inq_status_read'     => '열람 완료',
+    'inq_status_replied'  => '상담 완료',
+    
+    // Messages
+    'saved_successfully'  => '성공적으로 저장되었습니다.',
+    'deleted_successfully'=> '성공적으로 삭제되었습니다.',
+    'confirm_delete'      => '정말 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.',
+];

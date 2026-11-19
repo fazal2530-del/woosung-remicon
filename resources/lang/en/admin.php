@@ -1,0 +1,77 @@
+<?php
+
+return [
+    'title'               => 'Woosung Remicon Admin Panel',
+    'dashboard'           => 'Dashboard',
+    'products'            => 'Products',
+    'inquiries'           => 'Inquiries / Quotes',
+    'announcements'       => 'Announcements',
+    'page_content'        => 'Page Content',
+    'seo'                 => 'SEO Settings',
+    'settings'            => 'Site Settings',
+    'users'               => 'Admin Accounts',
+    'logout'              => 'Log Out',
+    'login'               => 'Admin Login',
+    'welcome'             => 'Welcome to the Woosung Remicon Management System.',
+    
+    // Actions
+    'add_new'             => 'Add New',
+    'edit'                => 'Edit',
+    'delete'              => 'Delete',
+    'save'                => 'Save Changes',
+    'cancel'              => 'Cancel',
+    'view'                => 'View Details',
+    'back'                => 'Back to List',
+    'status'              => 'Status',
+    'actions'             => 'Actions',
+    'created_at'          => 'Date Created',
+    'search'              => 'Search',
+    'filter'              => 'Filter',
+    
+    // Dashboard Stats
+    'stat_products'       => 'Total Products',
+    'stat_inquiries_new'  => 'New Inquiries',
+    'stat_inquiries_all'  => 'All Inquiries',
+    'stat_announcements'  => 'Published Notices',
+    'recent_inquiries'    => 'Recent Quote Inquiries',
+    'no_inquiries'        => 'No inquiries received recently.',
+    
+    // Product Form
+    'prod_name_ko'        => 'Product Name (Korean)',
+    'prod_name_en'        => 'Product Name (English)',
+    'prod_category'       => 'Category',
+    'cat_remicon'         => 'Ready-Mixed Concrete',
+    'cat_block'           => 'Concrete Block',
+    'cat_ascon'           => 'Ascon',
+    'prod_grade'          => 'Compressive Strength (MPa)',
+    'prod_slump'          => 'Slump (mm)',
+    'prod_aggregate'      => 'Max Aggregate Size (mm)',
+    'prod_dimensions'     => 'Block Dimensions (W×H×L mm)',
+    'prod_width'          => 'Width (W)',
+    'prod_height'         => 'Height (H)',
+    'prod_length'         => 'Length (L)',
+    'prod_app_ko'         => 'Application (Korean)',
+    'prod_app_en'         => 'Application (English)',
+    'prod_available'      => 'In Stock / Supply Available',
+    'prod_sort'           => 'Sort Order',
+    'prod_image'          => 'Featured Image',
+    
+    // Inquiries
+    'inq_name'            => 'Contact Name',
+    'inq_company'         => 'Company / Site',
+    'inq_phone'           => 'Phone Number',
+    'inq_email'           => 'Email',
+    'inq_product'         => 'Requested Product',
+    'inq_qty'             => 'Quantity',
+    'inq_address'         => 'Site Address',
+    'inq_date'            => 'Delivery Date',
+    'inq_message'         => 'Message / Details',
+    'inq_status_new'      => 'New',
+    'inq_status_read'     => 'Reviewed',
+    'inq_status_replied'  => 'Replied',
+    
+    // Messages
+    'saved_successfully'  => 'Saved successfully.',
+    'deleted_successfully'=> 'Deleted successfully.',
+    'confirm_delete'      => 'Are you sure you want to delete this record? This action cannot be undone.',
+];
